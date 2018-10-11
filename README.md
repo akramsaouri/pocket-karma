@@ -31,3 +31,4 @@ curl -X POST \
 
 ## TODO 
 [] continuous integration for up apex
+[] add caching for articles
